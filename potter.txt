@@ -1,0 +1,374 @@
+parent(lily_potter, harry_potter).
+parent(james_potter, harry_potter).
+parent(arthur_weasley, ron_weasley).
+parent(molly_weasley, ron_weasley).
+parent(arthur_weasley, bill_weasley).
+parent(molly_weasley, bill_weasley).
+parent(arthur_weasley, charlie_weasley).
+parent(molly_weasley, charlie_weasley).
+parent(arthur_weasley, percy_weasley).
+parent(molly_weasley, percy_weasley).
+parent(arthur_weasley, fred_weasley).
+parent(molly_weasley, fred_weasley).
+parent(arthur_weasley, george_weasley).
+parent(molly_weasley, george_weasley).
+parent(arthur_weasley, ginny_weasley).
+parent(molly_weasley, ginny_weasley).
+parent(lucius_malfoy, draco_malfoy).
+parent(narcissa_malfoy, draco_malfoy).
+parent(frank_longbottom, neville_longbottom).
+parent(alice_longbottom, neville_longbottom).
+parent(xenophilius_lovegood, luna_lovegood).
+parent(vernon_dursley, dudley_dursley).
+parent(petunia_dursley, dudley_dursley).
+parent(harry_potter, james_sirius_potter).
+parent(harry_potter, albus_severus_potter).
+parent(harry_potter, lily_luna_potter).
+parent(ginny_weasley, james_sirius_potter).
+parent(ginny_weasley, albus_severus_potter).
+parent(ginny_weasley, lily_luna_potter).
+parent(ron_weasley, rose_weasley).
+parent(ron_weasley, hugo_weasley).
+parent(hermione_granger, rose_weasley).
+parent(hermione_granger, hugo_weasley).
+house(gryffindor, harry_potter).
+house(gryffindor, lily_potter).
+house(gryffindor, james_potter).
+house(gryffindor, sirius_black).
+house(gryffindor, remus_lupin).
+house(gryffindor, petter_pettigrew).
+house(gryffindor, hermione_granger).
+house(gryffindor, ron_weasley).
+house(gryffindor, bill_weasley).
+house(gryffindor, charlie_weasley).
+house(gryffindor, percy_weasley).
+house(gryffindor, fred_weasley).
+house(gryffindor, george_weasley).
+house(gryffindor, ginny_weasley).
+house(gryffindor, minerva_mccgonall).
+house(gryffindor, parvati_patil).
+house(gryffindor, colin_creevey).
+house(gryffindor, seamus_finnigan).
+house(slytherin, lucius_malfoy).
+house(slytherin, draco_malfoy).
+house(slytherin, narcissa_malfoy).
+house(slytherin, severus_snape).
+house(slytherin, tom_riddle).
+house(slytherin, voldemort).
+house(slytherin, bellatrix_lestrange).
+house(slytherin, regulus_black).
+house(slytherin, horace_slughorn).
+house(slytherin, vincent_crabbe).
+house(slytherin, gregory_goyle).
+house(hufflepuff, cedric_diggory).
+house(hufflepuff, newt_scamander).
+house(hufflepuff, nymphadora_tonks).
+house(hufflepuff, pomona_sprout).
+house(ravenclaw, luna_lovegood).
+house(ravenclaw, padma_patil).
+house(ravenclaw, cho_chang).
+married(remus_lupin, nymphadora_tonks).
+married(james_potter, lily_potter).
+married(arthur_weasley, molly_weasley).
+married(bill_weasley, fleur_delacour).
+married(ron_weasley, hermione_granger).
+married(lucius_malfoy, narcissa_malfoy).
+enemy(peter_pettigrew, sirius_black).
+enemy(peter_pettigrew, remus_lupin).
+enemy(draco_malfoy, harry_potter).
+enemy(draco_malfoy, hermione_granger).
+enemy(draco_malfoy, ron_weasley).
+enemy(voldemort, albus_dumbledore).
+enemy(voldemort, ginny_weasley).
+enemy(voldemort, hermione_granger).
+enemy(voldemort, ron_weasley).
+enemy(voldemort, harry_potter).
+enemy(voldemort, rubeus_hagrid).
+enemy(voldemort, wizarding_world).
+enemy(bellatrix_lestrange, neville_longbottom).
+enemy(bellatrix_lestrange, sirius_black).
+enemy(cormac_mclaggen, ron_weasley).
+enemy(dolores_umbridge, harry_potter).
+enemy(dolores_umbridge, hermione_granger).
+enemy(dolores_umbridge, ron_weasley).
+enemy(dolores_umbridge, fred_weasley).
+enemy(dolores_umbridge, george_weasley).
+enemy(dolores_umbridge, ginny_weasley).
+enemy(vernon_dursley, harry_potter).
+enemy(petunia_dursley, harry_potter).
+enemy(dudley_dursley, harry_potter).
+enemy(marge_dursley, harry_potter).
+enemy(quirinus_quirrell, harry_potter).
+enemy(quirinus_quirrell, ron_weasley).
+enemy(quirinus_quirrell, hermione_granger).
+enemy(gilderoy_lockhart, harry_potter).
+enemy(gilderoy_lockhart, hermione_granger).
+enemy(gilderoy_lockhart, ron_weasley).
+enemy(gilderoy_lockhart, severus_snape).
+betrays(severus_snape, voldemort).
+betrays(peter_pettigrew, james_potter).
+betrays(peter_pettigrew, sirius_black).
+betrays(peter_pettigrew, remus_lupin).
+betrays(xenophilius_lovegood, harry_potter).
+betrays(xenophilius_lovegood, hermione_granger).
+betrays(xenophilius_lovegood, ron_weasley).
+betrays(cho_chang, harry_potter).
+betrays(cho_chang, hermione_granger).
+betrays(cho_chang, ron_weasley).
+betrays(cho_chang, fred_weasley).
+betrays(cho_chang, george_weasley).
+betrays(cho_chang, luna_lovegood).
+betrays(cho_chang, ginny_weasley).
+betrays(percy_weasley, arthur_weasley).
+betrays(percy_weasley, molly_weasley).
+betrays(percy_weasley, ron_weasley).
+betrays(percy_weasley, ginny_weasley).
+betrays(percy_weasley, fred_weasley).
+betrays(percy_weasley, george_weasley).
+betrays(percy_weasley, bill_weasley).
+betrays(percy_weasley, charlie_weasley).
+betrays(percy_weasley, harry_potter).
+betrays(percy_weasley, hermione_granger).
+professor(filius_flitwick).
+professor(minerva_mcgonagall).
+professor(albus_dumbledore).
+professor(remus_lupin).
+professor(severus_snape).
+professor(pomona_sprout).
+professor(horace_slughorn).
+professor(quirinus_quirrell).
+professor(dolores_umbridge).
+professor(gilderoy_lockhart).
+professor(alastor_moody).
+professor(rubeus_hagrid).
+professor(sybill_trelawney).
+hogwarts_founder(godric_gryffindor).
+hogwarts_founder(helga_hufflepuff).
+hogwarts_founder(rowena_ravenclaw).
+hogwarts_founder(salazar_slytherin).
+muggle(vernon_dursley).
+muggle(petunia_dursley).
+muggle(dudley_dursley).
+muggle(marge_dursley).
+muggleborn(lily_potter).
+muggleborn(hermione_granger).
+muggleborn(myrtle_warren).
+muggleborn(colin_creevey).
+squib(argus_filch).
+squib(arabella_figg).
+half_blood(harry_potter).
+half_blood(severus_snape).
+half_blood(voldemort).
+half_blood(tom_riddle).
+half_blood(remus_lupin).
+pure_blood(ron_weasley).
+pure_blood(draco_malfoy).
+pure_blood(fred_weasley).
+pure_blood(ginny_weasley).
+pure_blood(george_weasley).
+pure_blood(percy_weasley).
+pure_blood(charlie_weasley).
+pure_blood(bill_weasley).
+pure_blood(arthur_weasley).
+pure_blood(molly_weasley).
+pure_blood(siruis_black).
+pure_blood(james_potter).
+pure_blood(bellatrix_lestrange).
+pure_blood(narcissa_malfoy).
+pure_blood(lucius_malfoy).
+pure_blood(neville_longbottom).
+pure_blood(luna_lovegood).
+teaches(albus_dumbledore, transfiguration).
+teaches(minerva_mcgonagall, transfiguration).
+teaches(severus_snape, potions).
+teaches(horace_slughorn, potions).
+teaches(pomona_sprout, herbology).
+teaches(sybill_trelawney, divination).
+teaches(rubeus_hagrid, care_of_magical_creatures).
+teaches(quirinus_quirrell, defense_against_the_dark_arts).
+teaches(gilderoy_lockhart, defense_against_the_dark_arts).
+teaches(remus_lupin, defense_against_the_dark_arts).
+teaches(dolores_umbridge, defense_against_the_dark_arts).
+teaches(alastor_moody, defense_against_the_dark_arts).
+teaches(severus_snape, defense_against_the_dark_arts).
+subject(transfiguration).
+subject(potions).
+subject(defense_against_the_dark_arts).
+subject(charms).
+subject(divination).
+subject(care_of_magical_creatures).
+subject(astronomy).
+subject(history_of_magic).
+subject(flying).
+subject(arithmancy).
+subject(ancient_runes).
+member_of(voldemort, death_eaters).
+member_of(bellatrix_lestrange, death_eaters).
+member_of(lucius_malfoy, death_eaters).
+member_of(draco_malfoy, death_eaters).
+member_of(peter_pettigrew, death_eaters).
+member_of(severus_snape, death_eaters).
+member_of(narcissa_malfoy, death_eaters).
+member_of(albus_dumbledore, order_of_the_phoenix).
+member_of(minerva_mccgonagall, order_of_the_phoenix).
+member_of(molly_weasley, order_of_the_phoenix).
+member_of(arthur_weasley, order_of_the_phoenix).
+member_of(remus_lupin, order_of_the_phoenix).
+member_of(nymphadora_tonks, order_of_the_phoenix).
+member_of(sirius_black, order_of_the_phoenix).
+member_of(harry_potter, order_of_the_phoenix).
+member_of(severus_snape, order_of_the_phoenix).
+member_of(alastor_moody, order_of_the_phoenix).
+member_of(harry_potter, dumbledores_army).
+member_of(hermione_granger, dumbledores_army).
+member_of(ron_weasley, dumbledores_army).
+member_of(neville_longbottom, dumbledores_army).
+member_of(luna_lovegood, dumbledores_army).
+member_of(ginny_weasley, dumbledores_army).
+member_of(fred_weasley, dumbledores_army).
+member_of(george_weasley, dumbledores_army).
+member_of(cho_chang, dumbledores_army).
+member_of(seamus_finnigan, dumbledores_army).
+member_of(parvati_patil, dumbledores_army).
+member_of(padma_patil, dumbledores_army).
+member_of(colin_creevey, dumbledores_army).
+member_of(james_potter, marauders).
+member_of(sirius_black, marauders).
+member_of(remus_lupin, marauders).
+member_of(peter_pettigrew, marauders).
+male(james_potter).
+male(harry_potter).
+male(sirius_black).
+male(peter_pettigrew).
+male(remus_lupin).
+male(colin_creevey).
+male(seamus_finnigan).
+male(george_weasley).
+male(fred_weasley).
+male(neville_longbottom).
+male(ron_weasley).
+male(alastor_moody).
+male(severus_snape).
+male(arthur_weasley).
+male(albus_dumbledore).
+male(draco_malfoy).
+male(lucius_malfoy).
+male(voldemort).
+male(gilderoy_lockhart).
+male(quirinus_quirrell).
+male(rubeus_hagrid).
+male(horace_slughorn).
+male(bill_weasley).
+male(charlie_weasley).
+male(percy_weasley).
+male(tom_riddle).
+male(argus_filch).
+male(dudley_dursley).
+male(vernon_dursley).
+male(salazar_slytherin).
+male(godric_gryffindor).
+male(filius_flitwick).
+male(xenophilius_lovegood).
+male(cormac_mclaggen).
+male(newt_scamander).
+male(cedric_diggory).
+male(gregory_goyle).
+male(vincent_crabble).
+male(regulus_black).
+male(hugo_weasley).
+male(albus_severus_potter).
+male(james_sirius_potter).
+male(frank_longbottom).
+female(hermione_granger).
+female(ginny_weasley).
+female(lily_potter).
+female(luna_lovegood).
+female(nymphadora_tonks).
+female(minerva_mccgonagall).
+female(rose_weasley).
+female(lily_luna_potter).
+female(molly_weasley).
+female(dolores_umbridge).
+female(nagini).
+female(rowena_ravenclaw).
+female(pomona_sprout).
+female(bellatrix_lestrange).
+female(sybill_trelawney).
+female(petunia_dursley).
+female(narcissa_malfoy).
+female(cho_chang).
+female(parvati_patil).
+female(padma_patil).
+female(fleur_delacour).
+female(alice_longbottom).
+destroyed(neville_longbottom, nagini).
+destroyed(harry_potter, tom_riddles_diary).
+destroyed(voldemort, harry_potter).
+destroyed(ron_weasley, slytherin_locket).
+destroyed(albus_dumbledore, resurrection_stone).
+destroyed(hermione_granger, hufflepuff_cup).
+horcrux(nagini).
+horcrux(tom_riddles_diary).
+horcrux(harry_potter).
+horcrux(slytherin_locket).
+horcrux(hufflepuff_cup).
+horcrux(ravenclaw_diadem).
+horcrux(resurrection_stone).
+creature(hedwig).
+creature(thestral).
+creature(unicorn).
+magical(thestral).
+magical(unicorn).
+creature(fluffy).
+magical(fluffy).
+creature(aragog).
+magical(aragog).
+creature(nagini).
+magical(nagini).
+creature(norbert).
+magical(norbert).
+creature(trevor).
+creature(crookshanks).
+magical(crookshanks).
+creature(scabbers).
+magical(scabbers).
+creature(fawkes).
+magical(fawkes).
+owns(albus_dumbledore, fawkes).
+owns(rubeus_hagrid, fluffy).
+owns(rubeus_hagrid, aragog).
+owns(voldemort, nagini).
+chocolate_frog_card(ron_weasley).
+chocolate_frog_card(hermione_granger).
+chocolate_frog_card(harry_potter).
+chocolate_frog_card(albus_dumbledore).
+ancestor(X, Y) :- parent(X, Y).
+ancestor(X, Y) :- ancestor(Z, Y), parent(X, Z).
+descendant(X, Y) :- ancestor(Y, X).
+sibling(X,Y) :- parent(P,X), parent(P,Y), X \= Y
+same_house(X, Y, Z) :- house(X, Y), house(X, Z).
+in_gryffindor(X) :- house(gryffindor, X).
+in_slytherin(X) :- house(slytherin, X).
+in_hufflepuff(X) :- house(hufflepuff, X).
+in_ravenclaw(X) :- house(ravenclaw, X).
+teaches(X, Y, Z) :- teaches(X, Y), takes(Z, Y).
+deatheater(X) :- member_of(X, death_eaters).
+enemy(X, Y) :- member_of(X, order_of_the_phoenix), member_of(Y, death_eaters).
+enemy(X, Y) :- member_of(X, death_eaters), member_of(Y, dumbledores_army).
+wizard(X) :- male(X), pure_blood(X).
+wizard(X) :- male(X), half_blood(X).
+wizard(X) :- male(X), muggleborn(X).
+witch(X) :- female(X), pure_blood(X).
+witch(X) :- female(X), half_blood(X).
+witch(X) :- female(X), muggleborn(X).
+destroyed_horcrux(X, Y) :- horcrux(Y), destroyed(X, Y).
+evil(X) :- deatheater(X).
+hates(X, Y) :- deatheater(X), muggleborn(Y).
+hates(X, Y) :- deatheater(X), squib(Y).
+hates(X, Y) :- deatheater(X), muggle(Y).
+tolerates(X, Y) :- deatheater(X), halfblood(Y).
+tolerates(X, Y) :- deatheater(X), pureblood(Y).
+magical_creature(X) :- creature(X), magical(X).
+magical_pet(X, Y) :- magical_creature(Y), owns(X, Y).
+hero(X) :- chocolate_frog_card(X).
+likes_voldemort(X) :- deatheater(X).
