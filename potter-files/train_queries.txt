@@ -1,0 +1,100 @@
+enemy(_EX4, seamus_finnigan).
+ancestor(P, neville_longbottom), descendant(neville_longbottom, P).
+magical_pet(P, fluffy), male(P).
+enemy(P, harry_potter), professor(P), enemy(P, X), enemy(narcissa_malfoy, X).
+parent(X, P), ancestor(arthur_weasley, P), hates(Y, X), enemy(minerva_mccgonagall, Y), parent(X, rose_weasley).
+hates(draco_malfoy, _EX0).
+professor(P), male(P).
+male(P), descendant(P, frank_longbottom).
+enemy(remus_lupin, _EX1).
+in_gryffindor(_EX1).
+enemy(harry_potter, _EX1).
+male(P).
+enemy(alastor_moody, severus_snape).
+male(P), professor(P).
+descendant(X, P), ancestor(P, X), enemy(draco_malfoy, X).
+in_hufflepuff(_EX5).
+enemy(X, P), female(P), female(X), married(Y, P), descendant(hugo_weasley, Y).
+descendant(_EX5, ginny_weasley).
+enemy(P, peter_pettigrew).
+in_slytherin(_EX2).
+subject(P).
+wizard(arthur_weasley).
+enemy(severus_snape, _EX4).
+enemy(P, Z).
+magical_pet(X, P), horcrux(P), member_of(X, death_eaters).
+enemy(albus_dumbledore, narcissa_malfoy).
+magical(P), magical_creature(P), creature(P).
+descendant(X, P), betrays(percy_weasley, P), ancestor(P, X), parent(P, Y), ancestor(P, Y).
+in_gryffindor(_EX1).
+enemy(X, parvati_patil).
+subject(P).
+witch(_EX0).
+hero(ron_weasley).
+hates(Y, _EX2).
+magical_creature(P), magical(P), creature(P).
+hates(peter_pettigrew, _EX4).
+betrays(P, remus_lupin), enemy(P, X), enemy(narcissa_malfoy, X), enemy(P, fred_weasley).
+witch(narcissa_malfoy).
+in_ravenclaw(_EX0).
+hates(Y, _EX0).
+enemy(_EX0, draco_malfoy).
+enemy(_EX1, hermione_granger).
+hates(narcissa_malfoy, _EX1).
+hates(_EX0, _EX2).
+house(P, nymphadora_tonks), house(P, cedric_diggory), house(P, newt_scamander).
+magical_creature(Z).
+descendant(P, arthur_weasley), parent(hermione_granger, P).
+in_hufflepuff(P), female(P).
+parent(P, harry_potter), descendant(X, P), descendant(X, harry_potter), descendant(X, ginny_weasley), ancestor(ginny_weasley, X).
+in_slytherin(_EX1).
+enemy(P, X), hates(P, argus_filch), enemy(dolores_umbridge, X).
+evil(_EX3).
+in_slytherin(P), house(X, P), house(X, Y), hates(Y, Z), wizard(Z).
+wizard(_EX2).
+descendant(X, P), enemy(P, severus_snape), ancestor(P, bill_weasley), descendant(X, lily_potter), betrays(percy_weasley, P).
+ancestor(_EX2, Z).
+male(P), in_slytherin(P).
+enemy(P, draco_malfoy), enemy(P, X), male(P), hates(X, marge_dursley).
+ancestor(harry_potter, _EX5).
+wizard(P), member_of(P, X), member_of(minerva_mccgonagall, X), parent(P, fred_weasley).
+subject(P), teaches(X, P), enemy(voldemort, X).
+deatheater(_EX2).
+professor(P), male(P).
+teaches(P, care_of_magical_creatures), enemy(voldemort, P), magical_pet(P, aragog).
+descendant(_EX4, james_potter).
+teaches(P, X), magical_pet(P, fluffy), subject(X).
+in_slytherin(_EX5).
+enemy(peter_pettigrew, _EX1).
+subject(P), teaches(X, P), enemy(X, Y), ancestor(Y, rose_weasley).
+enemy(molly_weasley, _EX2).
+house(P, gregory_goyle), house(P, vincent_crabbe), house(P, severus_snape).
+descendant(Y, _EX3).
+in_gryffindor(P).
+enemy(P, Z).
+in_gryffindor(_EX2).
+enemy(P, _EX2).
+subject(P).
+enemy(remus_lupin, _EX3).
+professor(P), teaches(P, potions), male(P), house(slytherin, P).
+magical(P), magical_creature(P), creature(P).
+wizard(P), enemy(draco_malfoy, P).
+ancestor(james_potter, Y).
+ancestor(X, _EX3).
+in_gryffindor(P).
+hates(_EX1, _EX0).
+destroyed(P, Y), parent(X, P), hates(lucius_malfoy, X), horcrux(Y).
+descendant(_EX3, Z).
+hates(_EX4, arabella_figg).
+enemy(lucius_malfoy, Z).
+enemy(lucius_malfoy, P), enemy(X, P), enemy(X, wizarding_world), enemy(severus_snape, P).
+hates(P, _EX3).
+in_gryffindor(fred_weasley).
+descendant(Y, Z).
+male(P), wizard(P).
+enemy(lucius_malfoy, P).
+enemy(arthur_weasley, _EX5).
+teaches(X, P), subject(P), professor(X).
+ancestor(P, james_sirius_potter), parent(P, fred_weasley).
+enemy(arthur_weasley, Y).
+enemy(P, X), enemy(arthur_weasley, P), in_gryffindor(X), member_of(X, order_of_the_phoenix).
