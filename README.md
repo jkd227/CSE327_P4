@@ -3,7 +3,7 @@
 Last practical homework for CSE 327!
 
 ## Description:
-We created a custom Harry Potter KB (potter.txt), as well as randomly generated KBs of varying sizes (200, 300, and 400 rules) to test the performance of different NN architectures and embedding sizes.
+We created a custom Harry Potter KB (potter.txt), as well as randomly generated KBs of varying sizes (200, 300, and 400 rules) to test the performance of different NN architectures and embedding sizes. Please refer to our writeup pdf, or our notebook pdfs to see commands we ran, results of models, and commentary on our results!
 
 ## Exercise 3:
 - run `python kbencoder.py -g --kb_path potter.txt` (to test the properties)
@@ -13,7 +13,7 @@ We created a custom Harry Potter KB (potter.txt), as well as randomly generated 
 - run the two training steps & the evaluation (`../kbencoder.py --train_unification_model` and `../nnreasoner.py`
 
 ## Exercise 7:
-(These aren't quite right, I needed to edit some of the file path names, but can update those if we need)
+(These aren't quite right, I needed to edit some of the file path names, but the gist is there!)
 ```
 !python ../kbencoder.py --kb_path randomKB.txt --train_unification_model --embed_size 25 --embed_model_path rKB_model_e_size_25.pth
 !python ../nnreasoner.py --embed_type unification -s --embed_size 25 --embed_model_path randomKB_400_e_size_25_model.pt
