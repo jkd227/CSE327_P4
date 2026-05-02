@@ -1,0 +1,425 @@
+enemy(albus_dumbledore, peter_pettigrew).
+enemy(voldemort, luna_lovegood).
+in_gryffindor(colin_creevey).
+deatheater(lucius_malfoy).
+hates(bellatrix_lestrange, marge_dursley).
+descendant(hugo_weasley, molly_weasley).
+enemy(peter_pettigrew, fred_weasley).
+hates(severus_snape, colin_creevey).
+magical_creature(thestral).
+enemy(peter_pettigrew, harry_potter).
+enemy(narcissa_malfoy, colin_creevey).
+ancestor(arthur_weasley, fred_weasley).
+enemy(alastor_moody, severus_snape).
+enemy(peter_pettigrew, hermione_granger).
+enemy(severus_snape, severus_snape).
+ancestor(petunia_dursley, dudley_dursley).
+hates(lucius_malfoy, petunia_dursley).
+ancestor(ron_weasley, rose_weasley).
+enemy(severus_snape, fred_weasley).
+hates(voldemort, arabella_figg).
+enemy(peter_pettigrew, ron_weasley).
+destroyed_horcrux(voldemort, harry_potter).
+enemy(lucius_malfoy, harry_potter).
+enemy(arthur_weasley, voldemort).
+enemy(molly_weasley, bellatrix_lestrange).
+enemy(lucius_malfoy, hermione_granger).
+enemy(sirius_black, bellatrix_lestrange).
+enemy(molly_weasley, draco_malfoy).
+ancestor(frank_longbottom, neville_longbottom).
+hates(lucius_malfoy, lily_potter).
+ancestor(molly_weasley, hugo_weasley).
+hates(severus_snape, dudley_dursley).
+evil(peter_pettigrew).
+ancestor(alice_longbottom, neville_longbottom).
+hates(lucius_malfoy, vernon_dursley).
+enemy(severus_snape, hermione_granger).
+descendant(charlie_weasley, molly_weasley).
+enemy(narcissa_malfoy, parvati_patil).
+destroyed_horcrux(harry_potter, tom_riddles_diary).
+enemy(draco_malfoy, colin_creevey).
+hates(narcissa_malfoy, hermione_granger).
+descendant(neville_longbottom, alice_longbottom).
+enemy(remus_lupin, lucius_malfoy).
+hates(narcissa_malfoy, argus_filch).
+ancestor(james_potter, albus_severus_potter).
+enemy(voldemort, cho_chang).
+descendant(ron_weasley, arthur_weasley).
+enemy(albus_dumbledore, lucius_malfoy).
+ancestor(arthur_weasley, ron_weasley).
+in_slytherin(gregory_goyle).
+enemy(lucius_malfoy, colin_creevey).
+hates(voldemort, colin_creevey).
+enemy(lucius_malfoy, seamus_finnigan).
+evil(draco_malfoy).
+wizard(lucius_malfoy).
+ancestor(molly_weasley, ginny_weasley).
+enemy(albus_dumbledore, bellatrix_lestrange).
+hates(peter_pettigrew, dudley_dursley).
+enemy(remus_lupin, draco_malfoy).
+ancestor(hermione_granger, rose_weasley).
+hates(voldemort, petunia_dursley).
+enemy(peter_pettigrew, luna_lovegood).
+wizard(tom_riddle).
+destroyed_horcrux(ron_weasley, slytherin_locket).
+wizard(colin_creevey).
+ancestor(arthur_weasley, james_sirius_potter).
+enemy(peter_pettigrew, neville_longbottom).
+in_gryffindor(percy_weasley).
+hates(severus_snape, vernon_dursley).
+evil(severus_snape).
+hates(bellatrix_lestrange, argus_filch).
+descendant(albus_severus_potter, molly_weasley).
+descendant(hugo_weasley, arthur_weasley).
+ancestor(lily_potter, harry_potter).
+descendant(ginny_weasley, molly_weasley).
+ancestor(ginny_weasley, lily_luna_potter).
+enemy(severus_snape, lucius_malfoy).
+hates(peter_pettigrew, marge_dursley).
+enemy(severus_snape, ron_weasley).
+in_hufflepuff(pomona_sprout).
+enemy(bellatrix_lestrange, luna_lovegood).
+hates(peter_pettigrew, lily_potter).
+in_gryffindor(hermione_granger).
+descendant(rose_weasley, hermione_granger).
+enemy(molly_weasley, severus_snape).
+hates(lucius_malfoy, hermione_granger).
+hates(peter_pettigrew, arabella_figg).
+hates(narcissa_malfoy, myrtle_warren).
+enemy(albus_dumbledore, severus_snape).
+enemy(alastor_moody, narcissa_malfoy).
+enemy(narcissa_malfoy, padma_patil).
+hates(draco_malfoy, marge_dursley).
+deatheater(narcissa_malfoy).
+enemy(peter_pettigrew, cho_chang).
+in_slytherin(regulus_black).
+wizard(draco_malfoy).
+hates(severus_snape, myrtle_warren).
+descendant(ron_weasley, molly_weasley).
+in_ravenclaw(cho_chang).
+descendant(rose_weasley, ron_weasley).
+enemy(peter_pettigrew, colin_creevey).
+witch(ginny_weasley).
+enemy(narcissa_malfoy, hermione_granger).
+hates(voldemort, hermione_granger).
+hates(peter_pettigrew, hermione_granger).
+destroyed_horcrux(neville_longbottom, nagini).
+likes_voldemort(lucius_malfoy).
+hates(bellatrix_lestrange, dudley_dursley).
+enemy(bellatrix_lestrange, cho_chang).
+enemy(bellatrix_lestrange, ginny_weasley).
+enemy(narcissa_malfoy, cho_chang).
+hates(peter_pettigrew, petunia_dursley).
+hates(draco_malfoy, colin_creevey).
+enemy(alastor_moody, voldemort).
+hates(bellatrix_lestrange, hermione_granger).
+descendant(dudley_dursley, vernon_dursley).
+enemy(sirius_black, narcissa_malfoy).
+hates(severus_snape, hermione_granger).
+hates(severus_snape, arabella_figg).
+enemy(nymphadora_tonks, severus_snape).
+enemy(lucius_malfoy, parvati_patil).
+enemy(lucius_malfoy, neville_longbottom).
+enemy(sirius_black, severus_snape).
+magical_creature(fluffy).
+ancestor(lucius_malfoy, draco_malfoy).
+enemy(minerva_mccgonagall, peter_pettigrew).
+descendant(albus_severus_potter, ginny_weasley).
+wizard(ron_weasley).
+hates(lucius_malfoy, arabella_figg).
+in_slytherin(narcissa_malfoy).
+enemy(sirius_black, voldemort).
+wizard(george_weasley).
+enemy(draco_malfoy, seamus_finnigan).
+enemy(molly_weasley, lucius_malfoy).
+enemy(voldemort, george_weasley).
+enemy(bellatrix_lestrange, fred_weasley).
+enemy(minerva_mccgonagall, lucius_malfoy).
+ancestor(molly_weasley, lily_luna_potter).
+enemy(draco_malfoy, parvati_patil).
+enemy(minerva_mccgonagall, narcissa_malfoy).
+enemy(arthur_weasley, lucius_malfoy).
+hates(bellatrix_lestrange, colin_creevey).
+enemy(peter_pettigrew, padma_patil).
+descendant(harry_potter, james_potter).
+ancestor(arthur_weasley, charlie_weasley).
+enemy(bellatrix_lestrange, hermione_granger).
+enemy(harry_potter, narcissa_malfoy).
+in_gryffindor(remus_lupin).
+enemy(severus_snape, bellatrix_lestrange).
+in_slytherin(voldemort).
+enemy(sirius_black, lucius_malfoy).
+hates(bellatrix_lestrange, petunia_dursley).
+magical_creature(nagini).
+enemy(severus_snape, narcissa_malfoy).
+ancestor(harry_potter, james_sirius_potter).
+ancestor(lily_potter, lily_luna_potter).
+hates(narcissa_malfoy, vernon_dursley).
+magical_pet(albus_dumbledore, fawkes).
+in_gryffindor(harry_potter).
+enemy(lucius_malfoy, george_weasley).
+hates(voldemort, dudley_dursley).
+enemy(nymphadora_tonks, lucius_malfoy).
+hates(voldemort, lily_potter).
+enemy(severus_snape, padma_patil).
+enemy(remus_lupin, peter_pettigrew).
+enemy(narcissa_malfoy, luna_lovegood).
+wizard(bill_weasley).
+ancestor(molly_weasley, fred_weasley).
+enemy(draco_malfoy, cho_chang).
+descendant(james_sirius_potter, lily_potter).
+in_slytherin(lucius_malfoy).
+enemy(harry_potter, severus_snape).
+enemy(severus_snape, harry_potter).
+ancestor(molly_weasley, george_weasley).
+descendant(james_sirius_potter, james_potter).
+witch(hermione_granger).
+wizard(charlie_weasley).
+wizard(fred_weasley).
+enemy(nymphadora_tonks, voldemort).
+in_hufflepuff(cedric_diggory).
+enemy(harry_potter, draco_malfoy).
+magical_creature(unicorn).
+descendant(ginny_weasley, arthur_weasley).
+enemy(bellatrix_lestrange, george_weasley).
+enemy(nymphadora_tonks, draco_malfoy).
+hates(narcissa_malfoy, marge_dursley).
+ancestor(james_potter, james_sirius_potter).
+ancestor(molly_weasley, percy_weasley).
+ancestor(molly_weasley, albus_severus_potter).
+descendant(hugo_weasley, ron_weasley).
+enemy(minerva_mccgonagall, voldemort).
+ancestor(molly_weasley, bill_weasley).
+ancestor(vernon_dursley, dudley_dursley).
+enemy(narcissa_malfoy, ginny_weasley).
+descendant(james_sirius_potter, arthur_weasley).
+enemy(severus_snape, parvati_patil).
+enemy(lucius_malfoy, luna_lovegood).
+hates(severus_snape, petunia_dursley).
+descendant(lily_luna_potter, lily_potter).
+enemy(sirius_black, draco_malfoy).
+ancestor(arthur_weasley, george_weasley).
+hates(bellatrix_lestrange, lily_potter).
+hero(harry_potter).
+ancestor(molly_weasley, charlie_weasley).
+hates(narcissa_malfoy, lily_potter).
+enemy(albus_dumbledore, voldemort).
+in_gryffindor(james_potter).
+hates(severus_snape, marge_dursley).
+magical_pet(rubeus_hagrid, aragog).
+hates(voldemort, argus_filch).
+in_slytherin(horace_slughorn).
+ancestor(hermione_granger, hugo_weasley).
+likes_voldemort(severus_snape).
+wizard(remus_lupin).
+wizard(harry_potter).
+in_gryffindor(ginny_weasley).
+ancestor(narcissa_malfoy, draco_malfoy).
+hates(lucius_malfoy, argus_filch).
+enemy(severus_snape, neville_longbottom).
+enemy(narcissa_malfoy, george_weasley).
+ancestor(ginny_weasley, albus_severus_potter).
+in_gryffindor(minerva_mccgonall).
+descendant(albus_severus_potter, james_potter).
+enemy(nymphadora_tonks, peter_pettigrew).
+ancestor(ron_weasley, hugo_weasley).
+ancestor(molly_weasley, rose_weasley).
+enemy(nymphadora_tonks, bellatrix_lestrange).
+magical_pet(voldemort, nagini).
+enemy(voldemort, parvati_patil).
+deatheater(draco_malfoy).
+enemy(alastor_moody, bellatrix_lestrange).
+ancestor(arthur_weasley, bill_weasley).
+ancestor(arthur_weasley, ginny_weasley).
+in_slytherin(vincent_crabbe).
+enemy(draco_malfoy, padma_patil).
+evil(lucius_malfoy).
+enemy(bellatrix_lestrange, seamus_finnigan).
+enemy(harry_potter, bellatrix_lestrange).
+in_gryffindor(sirius_black).
+hates(peter_pettigrew, colin_creevey).
+evil(voldemort).
+in_gryffindor(charlie_weasley).
+in_slytherin(tom_riddle).
+witch(molly_weasley).
+enemy(severus_snape, peter_pettigrew).
+hero(ron_weasley).
+deatheater(bellatrix_lestrange).
+in_slytherin(bellatrix_lestrange).
+enemy(arthur_weasley, narcissa_malfoy).
+in_gryffindor(ron_weasley).
+enemy(draco_malfoy, neville_longbottom).
+ancestor(arthur_weasley, percy_weasley).
+enemy(remus_lupin, narcissa_malfoy).
+enemy(alastor_moody, peter_pettigrew).
+enemy(severus_snape, draco_malfoy).
+enemy(voldemort, colin_creevey).
+enemy(arthur_weasley, bellatrix_lestrange).
+descendant(lily_luna_potter, harry_potter).
+magical_creature(aragog).
+ancestor(arthur_weasley, albus_severus_potter).
+hates(draco_malfoy, hermione_granger).
+enemy(peter_pettigrew, george_weasley).
+magical_creature(crookshanks).
+ancestor(xenophilius_lovegood, luna_lovegood).
+hates(voldemort, vernon_dursley).
+descendant(lily_luna_potter, ginny_weasley).
+in_ravenclaw(padma_patil).
+descendant(james_sirius_potter, molly_weasley).
+enemy(narcissa_malfoy, seamus_finnigan).
+hates(draco_malfoy, dudley_dursley).
+hates(bellatrix_lestrange, arabella_figg).
+ancestor(molly_weasley, ron_weasley).
+in_slytherin(severus_snape).
+enemy(bellatrix_lestrange, harry_potter).
+in_gryffindor(parvati_patil).
+enemy(albus_dumbledore, draco_malfoy).
+enemy(albus_dumbledore, narcissa_malfoy).
+in_hufflepuff(nymphadora_tonks).
+enemy(nymphadora_tonks, narcissa_malfoy).
+descendant(bill_weasley, molly_weasley).
+hates(draco_malfoy, petunia_dursley).
+hates(severus_snape, argus_filch).
+ancestor(harry_potter, albus_severus_potter).
+descendant(james_sirius_potter, harry_potter).
+enemy(draco_malfoy, george_weasley).
+evil(narcissa_malfoy).
+descendant(draco_malfoy, narcissa_malfoy).
+descendant(percy_weasley, molly_weasley).
+descendant(lily_luna_potter, arthur_weasley).
+hero(albus_dumbledore).
+wizard(severus_snape).
+descendant(rose_weasley, arthur_weasley).
+in_ravenclaw(luna_lovegood).
+enemy(molly_weasley, narcissa_malfoy).
+witch(lily_potter).
+enemy(lucius_malfoy, cho_chang).
+descendant(james_sirius_potter, ginny_weasley).
+descendant(lily_luna_potter, molly_weasley).
+enemy(sirius_black, peter_pettigrew).
+magical_creature(fawkes).
+in_gryffindor(lily_potter).
+hates(draco_malfoy, myrtle_warren).
+enemy(severus_snape, luna_lovegood).
+descendant(rose_weasley, molly_weasley).
+hates(peter_pettigrew, vernon_dursley).
+hates(draco_malfoy, lily_potter).
+hates(draco_malfoy, argus_filch).
+destroyed_horcrux(albus_dumbledore, resurrection_stone).
+magical_creature(scabbers).
+enemy(remus_lupin, voldemort).
+evil(bellatrix_lestrange).
+hates(lucius_malfoy, myrtle_warren).
+enemy(minerva_mccgonagall, bellatrix_lestrange).
+hates(peter_pettigrew, myrtle_warren).
+hates(bellatrix_lestrange, vernon_dursley).
+enemy(voldemort, padma_patil).
+wizard(neville_longbottom).
+hates(draco_malfoy, arabella_figg).
+descendant(albus_severus_potter, harry_potter).
+enemy(voldemort, fred_weasley).
+enemy(lucius_malfoy, ginny_weasley).
+enemy(draco_malfoy, ginny_weasley).
+hates(lucius_malfoy, dudley_dursley).
+likes_voldemort(draco_malfoy).
+likes_voldemort(peter_pettigrew).
+enemy(severus_snape, george_weasley).
+witch(luna_lovegood).
+ancestor(arthur_weasley, rose_weasley).
+wizard(percy_weasley).
+hates(lucius_malfoy, marge_dursley).
+hates(narcissa_malfoy, petunia_dursley).
+enemy(bellatrix_lestrange, ron_weasley).
+in_hufflepuff(newt_scamander).
+ancestor(lily_potter, albus_severus_potter).
+enemy(arthur_weasley, draco_malfoy).
+ancestor(arthur_weasley, lily_luna_potter).
+enemy(harry_potter, peter_pettigrew).
+enemy(severus_snape, ginny_weasley).
+descendant(fred_weasley, molly_weasley).
+descendant(albus_severus_potter, arthur_weasley).
+enemy(alastor_moody, draco_malfoy).
+hates(narcissa_malfoy, dudley_dursley).
+enemy(arthur_weasley, severus_snape).
+hates(severus_snape, lily_potter).
+enemy(severus_snape, voldemort).
+likes_voldemort(voldemort).
+descendant(george_weasley, arthur_weasley).
+in_gryffindor(seamus_finnigan).
+enemy(remus_lupin, bellatrix_lestrange).
+enemy(narcissa_malfoy, harry_potter).
+enemy(draco_malfoy, luna_lovegood).
+enemy(peter_pettigrew, ginny_weasley).
+enemy(peter_pettigrew, parvati_patil).
+enemy(remus_lupin, severus_snape).
+enemy(arthur_weasley, peter_pettigrew).
+descendant(dudley_dursley, petunia_dursley).
+deatheater(severus_snape).
+hates(narcissa_malfoy, colin_creevey).
+enemy(lucius_malfoy, padma_patil).
+ancestor(ginny_weasley, james_sirius_potter).
+enemy(lucius_malfoy, fred_weasley).
+enemy(voldemort, neville_longbottom).
+descendant(george_weasley, molly_weasley).
+ancestor(arthur_weasley, hugo_weasley).
+hates(narcissa_malfoy, arabella_figg).
+enemy(severus_snape, cho_chang).
+magical_pet(rubeus_hagrid, fluffy).
+wizard(voldemort).
+enemy(draco_malfoy, fred_weasley).
+hates(voldemort, myrtle_warren).
+enemy(narcissa_malfoy, ron_weasley).
+deatheater(peter_pettigrew).
+in_gryffindor(petter_pettigrew).
+destroyed_horcrux(hermione_granger, hufflepuff_cup).
+enemy(molly_weasley, voldemort).
+wizard(james_potter).
+hates(peter_pettigrew, argus_filch).
+enemy(alastor_moody, lucius_malfoy).
+witch(narcissa_malfoy).
+descendant(fred_weasley, arthur_weasley).
+enemy(peter_pettigrew, seamus_finnigan).
+in_gryffindor(george_weasley).
+enemy(molly_weasley, peter_pettigrew).
+witch(bellatrix_lestrange).
+descendant(neville_longbottom, frank_longbottom).
+descendant(percy_weasley, arthur_weasley).
+enemy(lucius_malfoy, ron_weasley).
+enemy(bellatrix_lestrange, parvati_patil).
+ancestor(harry_potter, lily_luna_potter).
+descendant(luna_lovegood, xenophilius_lovegood).
+hero(hermione_granger).
+enemy(narcissa_malfoy, fred_weasley).
+enemy(minerva_mccgonagall, draco_malfoy).
+hates(draco_malfoy, vernon_dursley).
+likes_voldemort(bellatrix_lestrange).
+descendant(albus_severus_potter, lily_potter).
+in_slytherin(draco_malfoy).
+likes_voldemort(narcissa_malfoy).
+in_gryffindor(fred_weasley).
+wizard(arthur_weasley).
+descendant(hugo_weasley, hermione_granger).
+descendant(bill_weasley, arthur_weasley).
+descendant(lily_luna_potter, james_potter).
+enemy(voldemort, seamus_finnigan).
+hates(bellatrix_lestrange, myrtle_warren).
+hates(voldemort, marge_dursley).
+ancestor(lily_potter, james_sirius_potter).
+hates(lucius_malfoy, colin_creevey).
+descendant(harry_potter, lily_potter).
+deatheater(voldemort).
+enemy(bellatrix_lestrange, colin_creevey).
+enemy(severus_snape, colin_creevey).
+enemy(narcissa_malfoy, neville_longbottom).
+enemy(harry_potter, lucius_malfoy).
+enemy(severus_snape, seamus_finnigan).
+ancestor(james_potter, lily_luna_potter).
+enemy(minerva_mccgonagall, severus_snape).
+descendant(charlie_weasley, arthur_weasley).
+ancestor(molly_weasley, james_sirius_potter).
+enemy(harry_potter, voldemort).
+enemy(bellatrix_lestrange, padma_patil).
+magical_creature(norbert).
+in_gryffindor(bill_weasley).
+descendant(draco_malfoy, lucius_malfoy).
+ancestor(james_potter, harry_potter).
