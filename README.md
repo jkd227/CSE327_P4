@@ -1,4 +1,5 @@
-# CSE327_P4
+# CSE327 P4
+#### Rachel McIntosh (rem526@lehigh.edu), Zoe Ford (zmf227@lehigh.edu), Joelle Dizon (jkd227@lehigh.edu)
 Last practical homework for CSE 327!
 
 ## Description:
