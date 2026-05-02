@@ -1,8 +1,15 @@
 # CSE327_P4
 Last practical homework for CSE 327!
 
+## Description:
+We created a custom Harry Potter KB (potter.txt), as well as randomly generated KBs of varying sizes (200, 300, and 400 rules) to test the performance of different NN architectures and embedding sizes.
+
 ## Exercise 3:
-- run `python kbencoder.py -g --kb_path potter.txt`
+- run `python kbencoder.py -g --kb_path potter.txt` (to test the properties)
+
+## Exercise 5 & 6:
+- run `!python ../../kbencoder.py --generate_kb --num_rules {new size} --new_vocab --save_vocab`
+- run the two training steps & the evaluation (`../kbencoder.py --train_unification_model` and `../nnreasoner.py`
 
 ## Exercise 7:
 (These aren't quite right, I needed to edit some of the file path names, but can update those if we need)
